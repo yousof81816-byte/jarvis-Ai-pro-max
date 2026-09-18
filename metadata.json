@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Autonomous AI Agent Engine with Planner, Executor, Memory, Browser Agent, SDLC, HR, CRM/Sales, Creative Studio, Multi-Provider AI Router, Voice Agent, and Zero-Crash Resilient Error Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
